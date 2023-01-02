@@ -1,0 +1,9 @@
+[
+    {
+        "Type": "Van",
+        "Model": "Buggy",
+        "Year": 2000,
+        "Color": "Orange",
+        "Price": 5000
+    }
+]

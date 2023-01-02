@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Car",
+    "Model": "Tesla",
+    "Year": 2020,
+    "Color": "Grey",
+    "Price": 250000
+  },
+  {
+    "Type": "Car",
+    "Model": "Fusca",
+    "Year": 1995,
+    "Color": "Blue",
+    "Price": 5000
+  },
+  {
+    "Type": "Car",
+    "Model": "Camaro",
+    "Year": 2022,
+    "Color": "Yellow",
+    "Price": 500000
+  },
+  {
+    "Type": "Car",
+    "Model": "Lamborghini",
+    "Year": 2016,
+    "Color": "Red",
+    "Price": 250.000
+  },
+  {
+    "Type": "Car",
+    "Model": "Ferrari",
+    "Year": 2017,
+    "Color": "Green",
+    "Price": 249.999
+  }
+]

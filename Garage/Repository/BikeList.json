@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Bike",
+    "Model": "Fazer",
+    "Year": 2010,
+    "Color": "Black",
+    "Price": 10000
+  },
+  {
+    "Type": "Bike",
+    "Model": "CG",
+    "Year": 1996,
+    "Color": "Red",
+    "Price": 2500
+  }
+]

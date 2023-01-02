@@ -1,0 +1,15 @@
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\bin\Debug\net6.0\JSON.exe
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\bin\Debug\net6.0\JSON.deps.json
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\bin\Debug\net6.0\JSON.runtimeconfig.json
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\bin\Debug\net6.0\JSON.dll
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\bin\Debug\net6.0\JSON.pdb
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\JSON.csproj.AssemblyReference.cache
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\JSON.AssemblyInfoInputs.cache
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\JSON.AssemblyInfo.cs
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\JSON.csproj.CoreCompileInputs.cache
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\JSON.dll
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\refint\JSON.dll
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\JSON.pdb
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\JSON.genruntimeconfig.cache
+C:\Users\Sr Bonella\Desktop\Jeronimo\Progamação\Projetos\C#\JSON\obj\Debug\net6.0\ref\JSON.dll

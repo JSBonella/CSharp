@@ -1,0 +1,37 @@
+[
+  {
+    "Formato": "Quadrado",
+    "Cor": "Azul",
+    "Espessura": 3
+  },
+  {
+    "Formato": "Hexagono",
+    "Cor": "Roxo",
+    "Espessura": 10
+  },
+  {
+    "Formato": "Retangulo",
+    "Cor": "Verde",
+    "Espessura": 9
+  },
+  {
+    "Formato": "Trapezio",
+    "Cor": "Cinza",
+    "Espessura": 6
+  },
+  {
+    "Formato": "Circulo",
+    "Cor": "Roxo",
+    "Espessura": 10
+  },
+  {
+    "Formato": "Triangulo",
+    "Cor": "Branco",
+    "Espessura": 7
+  },
+  {
+    "Formato": "Cubo",
+    "Cor": "Verde",
+    "Espessura": 9
+  }
+]
